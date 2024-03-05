@@ -1,8 +1,8 @@
-# [Create anime characters using DCGANs and Keras](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0XCEEN+v1?authuser=0)
+# [Create Anime Characters using DCGANs and Keras](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0XCEEN+v1?authuser=0)
 
 ![Logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-GPXX0XCEEN/images/face_cartton.png)
 
-Course completion of Create anime characters using DCGANs and Keras from CognitiveClass.ai
+Course completion of Create Anime Characters using DCGANs and Keras from CognitiveClass.ai
 
 
 **Name** : Rizky Hardian Nor
